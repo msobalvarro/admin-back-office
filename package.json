@@ -32,7 +32,7 @@
     "socket.io-client": "^2.3.0",
     "sweetalert2": "^9.10.6",
     "toastr": "^2.1.4",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "node server.js",
